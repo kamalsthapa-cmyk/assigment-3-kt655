@@ -2,6 +2,6 @@
 title: "assigment-3-kt655"
 ---
 
-This is a Quarto website.
+Kamal Thapa: @kamalsthapa-cmyk and Miles Stone: @ms4245-creator collaborated to create this website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Lotus Flower](https://images.stockcake.com/public/6/5/a/65aa9bc4-624d-4192-955a-56dabf61ec96_large/serene-lotus-blossoms-stockcake.jpg)
